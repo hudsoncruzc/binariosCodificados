@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class BinariosCodificadosApplication {
-
+	// Adicionar documentacao
 	public static void main(String[] args) {
 		SpringApplication.run(BinariosCodificadosApplication.class, args);
 	}
