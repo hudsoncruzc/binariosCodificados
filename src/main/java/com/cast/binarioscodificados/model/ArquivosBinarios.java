@@ -6,6 +6,13 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Lob;
 
+/**
+ * 
+ * Classe Entity ArquivosBinarios
+ *
+ * @author <a href="mailto:hcamposcruz@gmail.com">Hudson de Campos Cruz</a>.
+ */
+
 @Entity
 public class ArquivosBinarios {
 	
